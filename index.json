@@ -9,7 +9,7 @@
           "date": "2023-12-08",
           "featuredImage": "https://picsum.photos/480/270",
           "abstract": "Initial launch of our demo project, featuring basic functionality.",
-          "entry": "releases/demo/20231208_160000.md"
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20231208_160000.md"
         },
         "20240115_160000": {
           "title": "Feature Update",
@@ -17,7 +17,7 @@
           "date": "2024-01-15",
           "featuredImage": "https://picsum.photos/480/280",
           "abstract": "Introducing new features and improvements.",
-          "entry": "releases/demo/20240115_160000.md"
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240115_160000.md"
         },
         "20240212_160000": {
           "title": "Bug Fixes and Performance Improvements",
@@ -25,7 +25,7 @@
           "date": "2024-02-12",
           "featuredImage": "https://picsum.photos/480/290",
           "abstract": "This release addresses several important bug fixes and performance enhancements.",
-          "entry": "releases/demo/20240212_160000.md"
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240212_160000.md"
         },
         "20240401_160000": {
           "title": "Spring Feature Release",
@@ -33,7 +33,7 @@
           "date": "2024-04-01",
           "featuredImage": "https://picsum.photos/480/300",
           "abstract": "Spring into action with our latest features and improvements.",
-          "entry": "releases/demo/20240401_160000.md"
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240401_160000.md"
         }
       }
     },
@@ -46,7 +46,7 @@
           "date": "2023-12-20",
           "featuredImage": "https://picsum.photos/490/270",
           "abstract": "Launching our revolutionary mobile platform, Skystriker.",
-          "entry": "releases/skystriker/20231220_160000.md"
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/skystriker/20231220_160000.md"
         },
         "20240125_160000": {
           "title": "New Integrations",
@@ -54,7 +54,7 @@
           "date": "2024-01-25",
           "featuredImage": "https://picsum.photos/490/280",
           "abstract": "We're expanding our integration capabilities in this update.",
-          "entry": "releases/skystriker/20240125_160000.md"
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/skystriker/20240125_160000.md"
         },
         "20240220_160000": {
           "title": "User Experience Overhaul",
@@ -62,7 +62,7 @@
           "date": "2024-02-20",
           "featuredImage": "https://picsum.photos/490/290",
           "abstract": "This release introduces a major overhaul of our user interface and experience.",
-          "entry": "releases/skystriker/20240220_160000.md"
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/skystriker/20240220_160000.md"
         },
         "20240405_160000": {
           "title": "April Security Update",
@@ -70,7 +70,7 @@
           "date": "2024-04-05",
           "featuredImage": "https://picsum.photos/490/300",
           "abstract": "Enhancing security measures and fixing vulnerabilities.",
-          "entry": "releases/skystriker/20240405_160000.md"
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/skystriker/20240405_160000.md"
         }
       }
     },
@@ -83,7 +83,7 @@
           "date": "2023-12-25",
           "featuredImage": "https://picsum.photos/500/270",
           "abstract": "Introducing Discover, our latest project for explorers.",
-          "entry": "releases/trailblazer/20231225_160000.md"
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/trailblazer/20231225_160000.md"
         },
         "20240130_160000": {
           "title": "Mapping Features Update",
@@ -91,7 +91,7 @@
           "date": "2024-01-30",
           "featuredImage": "https://picsum.photos/500/280",
           "abstract": "Expand your horizons with new mapping features.",
-          "entry": "releases/trailblazer/20240130_160000.md"
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/trailblazer/20240130_160000.md"
         },
         "20240225_160000": {
           "title": "Performance Boost",
@@ -99,7 +99,7 @@
           "date": "2024-02-25",
           "featuredImage": "https://picsum.photos/500/290",
           "abstract": "We've optimized our platform for speed and reliability.",
-          "entry": "releases/trailblazer/20240225_160000.md"
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/trailblazer/20240225_160000.md"
         },
         "20240410_160000": {
           "title": "Spring Update",
@@ -107,7 +107,7 @@
           "date": "2024-04-10",
           "featuredImage": "https://picsum.photos/500/300",
           "abstract": "Discover's spring update brings fresh features and improvements.",
-          "entry": "releases/trailblazer/20240410_160000.md"
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/trailblazer/20240410_160000.md"
         }
       }
     }
