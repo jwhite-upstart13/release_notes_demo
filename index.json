@@ -42,6 +42,14 @@
           "featuredImage": "https://picsum.photos/1080/720",
           "abstract": "Demo value asdasd",
           "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240405_170000.md"
+        },
+        "20240805_134500": {
+          "title": "Release vMobileAndroidExtensions_v1.8.0 (Title)",
+          "version": "1.8.0",
+          "date": "2024-08-04",
+          "featuredImage": "https://picsum.photos/1080/720",
+          "abstract": "This is a version that contains the CGI fixes",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240805_134500.md"
         }
       }
     },
