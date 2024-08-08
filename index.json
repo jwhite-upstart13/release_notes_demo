@@ -31,7 +31,7 @@
           "title": "Release vMobileAndroidExtensions_v1.8.0 (Title)",
           "version": "1.8.0",
           "date": "2024-08-04",
-          "featuredImage": "https://picsum.photos/1080/720",
+          "featuredImage": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/pictures/RN1-Web portal.png",
           "abstract": "This is a version that contains the CGI fixes",
           "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240805_134500.md"
         }
@@ -68,7 +68,7 @@
           "title": "April Security Update",
           "version": "1.2.1",
           "date": "2024-04-05",
-          "featuredImage": "https://picsum.photos/1080/720",
+          "featuredImage": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/pictures/RN1-mobile technician.png",
           "abstract": "Enhancing security measures and fixing vulnerabilities.",
           "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/skystriker/20240405_160000.md"
         }
